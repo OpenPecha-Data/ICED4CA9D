@@ -1,0 +1,61 @@
+id: ICED4CA9D
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-19T18:05:02.438745'
+last_modified: '2022-06-19T18:05:02.438750'
+parser: null
+source_metadata:
+  title: Wealth and Prosperity Series
+  language: nl
+  description: 'A selection of texts on the theme of wealth and prosperity including
+    rites for summoning the spirit of prosperity or abundance (g.yang ''gugs):'
+  volume:
+    f9C4D:
+      title: Sang Offering to Yellow Jambhala
+      base_file: f9C4D.txt
+      order: 1
+      parent: Offering
+    fC929:
+      title: Great Clouds of First-Portion Offerings for Prosperity
+      base_file: fC929.txt
+      order: 2
+      parent: Offering
+    f6A66:
+      title: 'Summoning the Spirit of Abundance: A Rain of Flowers'
+      base_file: f6A66.txt
+      order: 3
+      parent: Summoning Prosperity
+    fA4C4:
+      title: 'The Summoning Hook of Wish-Fulfilment: An Appeal for Prosperity'
+      base_file: fA4C4.txt
+      order: 4
+      parent: Summoning Prosperity
+    fD143:
+      title: Summoning Prosperity
+      base_file: fD143.txt
+      order: 5
+      parent: Summoning Prosperity
+    fD75A:
+      title: A Brief Prayer for Summoning Prosperity
+      base_file: fD75A.txt
+      order: 6
+      parent: Summoning Prosperity
+    f9B7E:
+      title: Summoning the Spirit of Abundance - The Hook of Divine Substance
+      base_file: f9B7E.txt
+      order: 7
+      parent: Summoning Prosperity
+    fD9DC:
+      title: An Appeal for the Prosperity of Teaching and Studying the Five Major
+        Scriptures
+      base_file: fD9DC.txt
+      order: 8
+      parent: Summoning Prosperity
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
